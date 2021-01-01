@@ -5,9 +5,7 @@
 - Downtempo electronic music producer [@Trimatix](https://soundcloud.com/trimatix)
 
 ### Interests
-Games (Unreal Engine 5)
-Visualization
-Compilers
+Games (Unreal Engine 5) - Visualization - Compilers
 
 ### Contact
 💬 [AMA](https://curiouscat.qa/Trimatix_Music)
