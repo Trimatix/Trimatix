@@ -11,3 +11,10 @@ Games (Unreal Engine 5) - Visualization - Compilers
 📫 [Email](mailto:hello@jasperlaw.dev)
 
 💬 [AMA](https://curiouscat.qa/Trimatix_Music)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trimatix&hide=contribs,prs&show_icons=true&bg_color=90,bb8bd9,5645b5&include_all_commits=true&custom_title=*coding%20intensifies*&title_color=eb9494&text_color=c9ffed&icon_color=ffffff&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimatix&layout=compact&bg_color=90,bb8bd9,5645b5&custom_title=favourite%20languages&title_color=8f1d61&text_color=ffffff&hide_title=true" />
+</a>
