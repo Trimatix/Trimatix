@@ -12,8 +12,9 @@ Games (Unreal Engine 5) - Visualization - Compilers
 
 💬 [AMA](https://curiouscat.qa/Trimatix_Music)
 
+<hr>
 <details>
-<summary>My GitHub stastics</summary>
+<summary>My GitHub Stastics</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=trimatix&hide=contribs,prs&show_icons=true&bg_color=90,bb8bd9,5645b5&include_all_commits=true&custom_title=*coding%20intensifies*&title_color=eb9494&text_color=c9ffed&icon_color=ffffff&hide_title=true" />
   </a>
@@ -23,7 +24,7 @@ Games (Unreal Engine 5) - Visualization - Compilers
 </details>
 
 <details>
-<summary>My discord bots</summary>
+<summary>My Discord Bots</summary>
   <a href="https://github.com/Trimatix/BASED">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trimatix&repo=BASED" />
   </a>
