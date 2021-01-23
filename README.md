@@ -8,7 +8,7 @@
 Games (Unreal Engine 5) - Visualization - Compilers
 
 ### Contact
-📫 [Email](mailto:hello@jasperlaw.dev)
+📫 [Email](mailto:1jasperlaw@gmail.com)
 
 💬 [AMA](https://curiouscat.qa/Trimatix_Music)
 
