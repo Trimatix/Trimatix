@@ -28,8 +28,8 @@ Games (Unreal Engine 5) - Visualization - Compilers
   <a href="https://github.com/Trimatix/BASED">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trimatix&repo=BASED" />
   </a>
-  <a href="https://github.com/Trimatix/GOF2BountyBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trimatix&repo=GOF2BountyBot" />
+  <a href="https://github.com/GOF2BountyBot/GOF2BountyBot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOF2BountyBot&repo=GOF2BountyBot" />
   </a>
   <a href="https://github.com/Trimatix-indie/SuperDeckBreaker">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trimatix-Indie&repo=SuperDeckBreaker" />
