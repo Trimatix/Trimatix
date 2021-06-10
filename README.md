@@ -7,6 +7,11 @@
 ### Interests
 Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)
 
+### Languages
+Most experienced with Python 3, followed by Java, followed by C++.
+
+Very much looking forward to spending my spare time getting gud with high performance software in C++, and then learning Rust.
+
 ### Contact
 📫 [Email](mailto:1jasperlaw@gmail.com)
 
