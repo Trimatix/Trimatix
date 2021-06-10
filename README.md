@@ -37,4 +37,7 @@ Games (Unreal Engine 5) - Visualization - Compilers
   <a href="https://github.com/Trimatix/BASED-storyteller">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trimatix&repo=BASED-storyteller" />
   </a>
+  <a href="https://github.com/FragSoc/esports-bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FragSoc&repo=esports-bot" />
+  </a>
 </details>
