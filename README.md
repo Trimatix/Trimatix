@@ -5,7 +5,7 @@
 - Downtempo electronic music producer [@Trimatix](https://soundcloud.com/trimatix)
 
 ### Interests
-Games (Unreal Engine 5) - Visualization - Compilers
+Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)
 
 ### Contact
 📫 [Email](mailto:1jasperlaw@gmail.com)
