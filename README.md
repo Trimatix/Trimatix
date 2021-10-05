@@ -1,6 +1,4 @@
-# Trimatix | Jasper Law
-### My Projects
-
+### Trimatix | Jasper Law
 🎯 Author of [BASED](https://github.com/Trimatix/BASED) template project for [discord.py](https://github.com/Rapptz/discord.py)<br>
 👨‍🚀 In use for the [BountyBot](https://github.com/GOF2BountyBot/GOF2BountyBot) fan game for [Galaxy on Fire 2](https://www.deepsilver.com/en/games/galaxy-fire-2-hd/)<br>
 🤖 AI with tensorflow - [esports analytics research in DOTA 2](https://github.com/Trimatix/DOTA2-Turtling)<br>
