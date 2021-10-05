@@ -1,17 +1,23 @@
-### 🤖 Trimatix | Jasper Law 🎮
-- Computer Science @ University of York
-- Author of [BASED](https://github.com/Trimatix/BASED) template project for [discord.py](https://github.com/Rapptz/discord.py)
-  - in use for the [BountyBot](https://github.com/GOF2BountyBot/GOF2BountyBot) fan project, reviving [Galaxy on Fire 2](https://www.deepsilver.com/en/games/galaxy-fire-2-hd/) as a discord-based MMORPG
-- AI with tensorflow, e.g [esports analytics research in DOTA 2](https://github.com/Trimatix/DOTA2-Turtling)
-- Downtempo electronic music producer [@Trimatix](https://soundcloud.com/trimatix)
+# Trimatix | Jasper Law
+### My Projects
+
+🎯 Author of [BASED](https://github.com/Trimatix/BASED) template project for [discord.py](https://github.com/Rapptz/discord.py)<br>
+👨‍🚀 In use for the [BountyBot](https://github.com/GOF2BountyBot/GOF2BountyBot) fan game for [Galaxy on Fire 2](https://www.deepsilver.com/en/games/galaxy-fire-2-hd/)<br>
+🤖 AI with tensorflow - [esports analytics research in DOTA 2](https://github.com/Trimatix/DOTA2-Turtling)<br>
+🍃 Author of [Carica](https://github.com/Trimatix/Carica/) python configurator library<br>
+🎧 Downtempo electronic music producer [@Trimatix](https://soundcloud.com/trimatix)
+
+What's next: [BountyBot 1.0 release](https://github.com/GOF2BountyBot/GOF2BountyBot/milestone/1), getting gud with high performance software in C++, and then learning Rust.
 
 ### Interests
 Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)
 
 ### Languages
-Most experienced with Python 3, followed by Java, followed by C++.
-
-Very much looking forward to spending my spare time getting gud with high performance software in C++, and then learning Rust.
+In descending order of experience:
+- Python 3 (mypy)
+- Java
+- C# (.NET core)
+- C++
 
 ### Contact
 📫 [Email](mailto:1jasperlaw@gmail.com)
@@ -29,7 +35,7 @@ Very much looking forward to spending my spare time getting gud with high perfor
   </a>
 </details>
 
-<details open>
+<details>
 <summary>My Discord Bots</summary>
   <a href="https://github.com/Trimatix/BASED">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trimatix&repo=BASED" />
