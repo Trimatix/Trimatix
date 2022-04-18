@@ -24,7 +24,7 @@ In descending order of experience:
 
 <hr>
 <details open>
-<summary>My GitHub Stastics</summary>
+<summary>My GitHub Statistics
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=trimatix&hide=contribs,prs&show_icons=true&bg_color=90,bb8bd9,5645b5&include_all_commits=true&custom_title=*coding%20intensifies*&title_color=eb9494&text_color=c9ffed&icon_color=ffffff&hide_title=true" />
   </a>
