@@ -5,7 +5,14 @@
 🍃 Author of [Carica](https://github.com/Trimatix/Carica/) python configurator library<br>
 🎧 Downtempo electronic music producer [@Trimatix](https://soundcloud.com/trimatix)
 
-What's next: [BountyBot 1.0 release](https://github.com/GOF2BountyBot/GOF2BountyBot/milestone/1), getting gud with high performance software in C++, and then learning Rust.
+#### Currently working on:
+[BASED 1.0 release](https://github.com/Trimatix/BASED/tree/dev) with discord.py 2.0
+
+#### Coming up
+- [BountyBot 1.0 release](https://github.com/GOF2BountyBot/GOF2BountyBot/milestone/1)
+- Game engine in c++
+  -  Basic space game??
+-  GOFCMM/GOFShark (cross-platform GOF2 mod manager w/ [tuari](https://github.com/tauri-apps/tauri))
 
 ### Interests
 Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)
@@ -13,8 +20,8 @@ Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)
 ### Languages
 In descending order of experience:
 - Python 3 (mypy)
-- Java
 - C# (.NET core)
+- Java
 - C++
 
 ### Contact
