@@ -1,21 +1,23 @@
-### Trimatix | Jasper Law
-🎯 Author of [BASED](https://github.com/Trimatix/BASED) template project for [discord.py](https://github.com/Rapptz/discord.py)<br>
-🌑 In use for the [BountyBot](https://github.com/GOF2BountyBot/GOF2BountyBot) fan game for [Galaxy on Fire 2](https://www.deepsilver.com/en/games/galaxy-fire-2-hd/)<br>
+### Trimatix | Jasper Law 🍫
+_[GitHub résumé](https://resume.github.io/?Trimatix)_<br>
+
+🎯 [BASED](https://github.com/Trimatix/BASED) template project for [discord.py](https://github.com/Rapptz/discord.py)<br>
+🌑 [BountyBot](https://github.com/GOF2BountyBot/GOF2BountyBot) fan game for [Galaxy on Fire 2](https://www.deepsilver.com/en/games/galaxy-fire-2-hd/)<br>
 🤖 AI with tensorflow - [esports analytics research in DOTA 2](https://github.com/Trimatix/DOTA2-Turtling)<br>
-🍃 Author of [Carica](https://github.com/Trimatix/Carica/) python configurator library<br>
+🍃 [Carica](https://github.com/Trimatix/Carica/) python configurator library<br>
 🎧 Downtempo electronic music producer [@Trimatix](https://soundcloud.com/trimatix)
 
-#### Currently working on:
-[BASED 1.0 release](https://github.com/Trimatix/BASED/tree/dev) with discord.py 2.0
-
-#### Coming up
-- [BountyBot 1.0 release](https://github.com/GOF2BountyBot/GOF2BountyBot/milestone/1)
-- Game engine in c++
-  -  Basic space game??
--  GOFCMM/GOFShark (cross-platform GOF2 mod manager w/ [tuari](https://github.com/tauri-apps/tauri))
-
 ### Interests
-Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)
+_Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)_
+
+#### Currently working on...
+- [BASED 1.0 release](https://github.com/Trimatix/BASED/tree/dev) with discord.py 2.0
+
+#### What's next...
+1. [BountyBot 1.0 release](https://github.com/GOF2BountyBot/GOF2BountyBot/milestone/1)
+2. Game engine in c++
+   + Basic space game??
+3.  GOFCMM/GOFShark (cross-platform GOF2 mod manager w/ [tuari](https://github.com/tauri-apps/tauri))
 
 ### Languages
 In descending order of experience:
