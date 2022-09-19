@@ -21,8 +21,8 @@ _Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)_
 
 ### Languages
 In descending order of experience:
-- Python 3 (mypy)
-- C# (.NET core)
+- Python 3 (mypy/pyright)
+- C# (.NET 6)
 - Java
 - C++
 
