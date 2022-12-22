@@ -18,6 +18,7 @@ _Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)_
 2. Game engine in c++
    + Basic space game??
 3.  GOFCMM/GOFShark (cross-platform GOF2 mod manager w/ [tuari](https://github.com/tauri-apps/tauri))
+   + Universe mod - swap *all* assets & dialog for a new story in an existing universe e.g star wars/star trek/everspace/freelancer
 
 ### Languages
 In descending order of experience:
