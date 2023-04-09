@@ -30,7 +30,7 @@ In descending order of experience:
 ### Contact
 📫 [Email](mailto:1jasperlaw@gmail.com)
 
-💬 [AMA](https://curiouscat.qa/Trimatix_Music)
+💬 [AMA](https://curiouscat.live/Trimatix_Music)
 
 <hr>
 <details open>
