@@ -26,6 +26,7 @@ In descending order of experience:
 - C# (.NET 6)
 - Java
 - C++
+- JavaScript (TypeScript)
 
 ### Contact
 📫 [Email](mailto:1jasperlaw@gmail.com)
