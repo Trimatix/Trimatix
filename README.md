@@ -16,7 +16,7 @@ _Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)_
 #### What's next...
 1. [BountyBot 1.0 release](https://github.com/GOF2BountyBot/GOF2BountyBot/milestone/1)
 2. Game engine in c++
-   + Basic space game??
+   + Basic space game
 3.  GOFCMM/GOFShark (cross-platform GOF2 mod manager w/ [tuari](https://github.com/tauri-apps/tauri))
     + Universe mod - swap *all* assets, item definitions, dialog, galactic map, and possibly even sounds/music, for a new story in an existing universe e.g star wars/star trek/everspace/freelancer
 
