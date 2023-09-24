@@ -23,13 +23,13 @@ _Data Analysis & Visualization - Compilers - Game Development (Unreal Engine)_
 ### Languages
 In descending order of experience:
 - Python 3 (mypy/pyright)
-- C# (.NET 6)
+- C# (.NET 7)
 - Java
 - C++
 - JavaScript (TypeScript)
 
 ### Contact
-📫 [Email](mailto:1jasperlaw@gmail.com)
+🎮 Discord: Trimatix
 
 💬 [AMA](https://curiouscat.live/Trimatix_Music)
 
